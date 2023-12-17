@@ -13,6 +13,7 @@ This includes property availabilities, property size and features as well as nig
 Data dictionaries are used to provide detailed information about the contents of a dataset or database, such as the names of measured variables, their data types or formats, and text descriptions. A data dictionary provides a concise guide to understanding and using the data.
 
 Click [**Here**](https://docs.google.com/spreadsheets/d/1b_dvmyhb_kAJhUmv81rAxl4KcXn0Pymz) for Data description.
+
 # Tools and Libraries Used:
 1. Python
 2. pymongo
@@ -28,4 +29,5 @@ Click [**Here**](https://docs.google.com/spreadsheets/d/1b_dvmyhb_kAJhUmv81rAxl4
 3. **Geospatial Visualization**: The geospatial data from the Airbnb dataset is used to create interactive folium maps. The distribution of listings across different locations are visualized allowing users to explore prices, ratings, and other relevant factors.
 4. **Analysis and Visualization**: Python plotly is used to analyze and visualize how prices vary across different locations, property types, and seasons. 
 5. **Dashboard Creation**:Tableau is used to create a comprehensive dashboard that presents key insights from analysis. 
-
+Please Go through Airbnb 
+![AirbnbPBI](https://github.com/Jesi1511/AirBNB-Analysis/assets/144013413/4c4f435f-7d18-45ac-a84b-68bf94f2f17a)
