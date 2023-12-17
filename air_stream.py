@@ -152,4 +152,4 @@ if menu == 'Folium Maps':
     st.markdown("<h4 style='text-align: center; color: #063F27;'>Airbnb listings across the continents </h4>", unsafe_allow_html=True)
     st.image('airbnb_folium.png')
 if menu == 'PowerBI Dashboard':
-    st.image('AirbnbTBW.png')
+    st.image('AirbnbPBI.png')
